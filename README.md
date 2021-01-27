@@ -1,2 +1,2 @@
 # simple_calculator
-training js and html
+Basic training of JS and HTML interaction on making simple calculator.
